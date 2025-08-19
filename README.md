@@ -1,7 +1,7 @@
 # Database Bootcamp 2025.2
 A one week bootcamp to learn SQL using Postgres.
 
-Se preferir, você pode lsr estas páginas de [conteúdo em português](https://en.support.wordprss.com/markdown-quick-reference/).
+_Se preferir, você pode ler estas páginas de [conteúdo em português](https://github.com/chicofreitas/database-bootcamp-20252/tree/main/lang/pt_br)._
 
 _Begin: Aug, 22. 2025._
 _Talker: Chicoo Freitas_
